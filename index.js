@@ -1,7 +1,5 @@
-/* Apa gak ada Thanks to?
-Cek paling Bawah
-Mau di Hapus?
-Gak Berkah:v
+/* Thanks To
+Zitsraa sc ori
 */
 const {
   WAConnection,
@@ -494,7 +492,7 @@ if (!isGroup && !isCmd) console.log(color(time, "white"), color("[ Private ]", "
 *+ ${prefix}tovideo*
 *+ ${prefix}toimg*
 
-*「 SELFBOT」*`
+*「 SELFBOT 」*`
 client.sendMessage(from , thumb_help, menu, text, {quoted : ftoko})
                    break
 			  
